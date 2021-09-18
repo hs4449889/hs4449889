@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">
+  Welcome to hs4449889 profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
 <!--
 **hs4449889/hs4449889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![hs4449889 GitHub stats](https://github-readme-stats.vercel.app/api?username=hs4449889&theme=vue-dark&show_icons=true)](https://github.com/hs4449889/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hs4449889&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/hs4449889/github-readme-stats)
+[![hs4449889 GitHub stats](https://github-readme-stats.vercel.app/api?username=hs4449889&theme=vue-dark&show_icons=true)](https://github.com/hs4449889/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hs4449889&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/hs4449889/github-readme-stats)
